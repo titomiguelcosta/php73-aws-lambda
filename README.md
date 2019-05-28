@@ -18,7 +18,8 @@ $ make profile=PROFILE stack=STACK deploy
 
 ## References
 
-AWS Layer built using https://github.com/stackery/php-lambda-layer
+* [Build AWS Layer](https://github.com/stackery/php-lambda-layer)
+* [Running a Serverless Lumen REST API on AWS Lambda](https://medium.com/@igliop/https-medium-com-igliop-running-a-serveless-lumen-rest-api-on-aws-lambda-804089b0852c)
 
 ## Tags
 
